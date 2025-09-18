@@ -1,0 +1,41 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: tomato;
+}
+
+h1{
+    color: azure;
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    color: green;
+    padding: 5px;
+    display: inline-block;
+    margin: 2px;
+}
+
+a{
+    color: green;
+}
+
+img{
+    height: 200px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    color: azure;
+}
+
+p{
+    color: green;
+}
