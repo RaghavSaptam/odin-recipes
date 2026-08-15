@@ -3,3 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+img{
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+a{
+    text-decoration: none;
+}
